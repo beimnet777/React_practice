@@ -1,0 +1,24 @@
+{
+  "name": "react_prective",
+  "version": "1.0.0",
+  "description": "practice material",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beimnet777/React_prective.git"
+  },
+  "author": "Beimnet Bekele Guta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beimnet777/React_prective/issues"
+  },
+  "homepage": "https://github.com/beimnet777/React_prective#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
